@@ -10,5 +10,3 @@ Assignment uses _mouseClicked()_ and _keyIsPressed()_ functions to create moveme
 Assignment working with arrays, filling them based on different conditions and loops. Also utilizes custom shapes and functions to draw a halloween-themed scene.
 * **Assignment 8:**  
 Assignment utilizing custom images, system and Google Fonts, etc. *Note: This requires a web server to load images properly.* 
-
-[Here's](https://0gravelle.github.io/gravelleProject/) a link to the repository for downloads.
