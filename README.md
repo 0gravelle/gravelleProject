@@ -1,7 +1,7 @@
 # gravelleProject
 GitHub project for MAGD 150-02 including assignment files written using [p5.js](https://p5js.org/).
 
-##**Assigment Descriptions:**
+### Assigment Descriptions:
 * **Assignment 4:**  
 Assignment uses _mouseClicked()_ and _keyIsPressed()_ functions to create movement, as well as using variables to change the color of an ellipse within the scene. Holding down a key moves the circle to the right, while clicking moves it a set increment downwards. 
 * **Assignment 7:**  
