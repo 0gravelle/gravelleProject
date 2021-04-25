@@ -11,4 +11,3 @@ Assignment working with arrays, filling them based on different conditions and l
 * **Assignment 8:**  
 Assignment utilizing custom images, system and Google Fonts, etc. *Note: This requires a web server to load images properly.* 
 
-[Here's](https://0gravelle.github.io/gravelleProject/) a link to the repository for downloads.
